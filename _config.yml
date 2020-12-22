@@ -10,14 +10,14 @@ collections:
 
 # Title
 name: Lisa Over
-subtitle: Coursework from Teacher Education
+subtitle: Coursework from my Education to be a Teacher
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/TeacherEducation'
+baseurl: '/TeacherCoursework'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -33,9 +33,6 @@ logoalt:
 navigation:
 - text: Home
   url: ./
-  internal: true
-- text: Statistics
-  url: statistics/
   internal: true
 - text: Algebra
   url: algebra/
